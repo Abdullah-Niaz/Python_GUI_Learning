@@ -1,0 +1,22 @@
+***Tkinter*** is the most commonly used library for developing GUI (Graphical User Interface) in Python. It is a standard Python interface to the Tk GUI toolkit shipped with Python. As Tk and Tkinter are available on most of the Unix platforms as well as on the Windows system, developing GUI applications with Tkinter becomes the fastest and easiest.
+
+Some other Python Libraries available for creating our own GUI applications are:
+    1. Kivy
+    2. Python Qt
+    3. wxPython
+    4. PyGTK
+    5. PyQt
+
+Among all Tkinter is most widely used 
+
+Here are some common use cases for Tkinter:
+    1. Creating windows and dialog boxes: Tkinter can be used to create windows and dialog boxes that allow users to interact with your program. These can be used to display information, gather input, or present options to the user.
+
+    2. Building a GUI for a desktop application: Tkinter can be used to create the interface for a desktop application, including buttons, menus, and other interactive elements.
+
+    3. Adding a GUI to a command-line program: Tkinter can be used to add a GUI to a command-line program, making it easier for users to interact with the program and input arguments.
+
+    4. Creating custom widgets: Tkinter includes a variety of built-in widgets, such as buttons, labels, and text boxes, but it also allows you to create your own custom widgets.
+
+    5. Prototyping a GUI: Tkinter can be used to quickly prototype a GUI, allowing you to test and iterate on different design ideas before committing to a final implementation.\
+    
