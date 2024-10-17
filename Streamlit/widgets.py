@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Stream Text Input")
-
+ 
 name = st.text_input("Enter Your Name: ")
 if name:
     sst = name.strip()
